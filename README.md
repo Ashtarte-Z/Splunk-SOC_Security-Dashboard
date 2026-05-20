@@ -127,8 +127,6 @@ index=main (ERROR OR WARNING)
 
 *Result: 19 threat-level events identified.*
 
-![Combined ERROR OR WARNING — 19 events](screenshots/09_error_or_warning_19.png)
-
 ![ERROR OR WARNING Detail](screenshots/10_error_warning_detail.png)
 
 ---
